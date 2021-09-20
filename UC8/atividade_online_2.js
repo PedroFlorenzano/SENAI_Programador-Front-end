@@ -4,7 +4,6 @@ a situação-problema apresentada, você deve aplicar as técnicas de programaç
 por meio da linguagem JavaScript.
 */
 
-
 const Data = 20;
 const Hoje = 18;
 
