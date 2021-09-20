@@ -16,7 +16,6 @@ código.
 sistema.
 */
 
-
 const quantidadeDeAlunos = 14;
 
 for(let index = 0; index <= quantidadeDeAlunos; index++){
