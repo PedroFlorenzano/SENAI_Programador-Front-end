@@ -11,7 +11,3 @@
           LÓGICA DE PROGRAMAÇÃO
           CODIFICAÇÃO PARA FRONT-END
           INTEGRAÇÃO COM APIs
-
-
-
-          leozinho lindo
